@@ -11,8 +11,6 @@ I am a Data Scientist with experience in Full Stack Development and training in 
 
 ## Professional Experience 👔
 
-### Data Scientist Intern
-
 **Bastó Ganado Inteligente, Córdoba, Argentina.**
 
 - 📊 Data acquisition from MongoDB databases.
@@ -36,7 +34,7 @@ I am a Data Scientist with experience in Full Stack Development and training in 
 - Java ☕
 - JavaScript 🌐
 
-- # Desarrollo Web
+### Desarrollo Web
 - HTML
 - CSS
 - Bootstrap
@@ -59,49 +57,33 @@ I am a Data Scientist with experience in Full Stack Development and training in 
 | Feature Engineering                | Django                           |
 | Big Data Processing                | FastAPI                          |
 | Data Cleaning and Preprocessing    | RESTful Services                 |
-| Time Series Analysis               | Microservices Architecture       |
-| ETL (Extract,Transform,Load)       | Cloud Computing (AWS, GCP, Oracle)|
-|                                    | Containerization (Docker)        |
-|                                    | Version Control (Git)            |
+| Time Series Analysis               | Cloud Computing (AWS, GCP, Oracle)     |
+| ETL (Extract,Transform,Load)       | Containerization (Docker)   |
+|                                    | Version Control (Git)      |
 
 
 
-### Tools
 
-- Pandas 🐼
-- Spark 🚀
-- Visualization (matplotlib, seaborn, plotly, etc.) 📈
-- Scikit-Learn 🤖
-- Oracle Cloud ☁️
-- SQL 🗃️
-- Docker 🐳
-- Power BI 💼
-- Tableau 📊
-- Eclipse 🌒
-- IntelliJ 💻
-- Django 🌐
-- Flask 🍶
-- Streamlit 🎨
+### Tools  | Databases  | Platforms  | Operating Systems 🛠️🗄️☁️💻
 
-### Databases 🗄️
+| Sección                                      | Sección                                    | Sección                                  | Sección                            |
+| -------------------------------------------- | ------------------------------------------ | ---------------------------------------- | ---------------------------------- |
+| **Tools**                                    | **Databases**                              | **Platforms**                            | **Operating Systems**             |
+| - Pandas 🐼                                  | - MySQL 🐬                                  | - Oracle ☁️                            | - Windows 🪟                      |
+| - Spark 🚀                                  | - PostgreSQL 🐘                             | - AWS ☁️                               | - Linux 🐧                        |
+| - Visualization (matplotlib, seaborn, plotly, etc.) 📈 | - SQLite 📦                                | - Google Cloud ☁️                      |                                    |
+| - Scikit-Learn 🤖                          | - MongoDB 🍃                               |                                        |                                    |
+| - Oracle Cloud ☁️                          | - Oracle 🏛️                                |                                        |                                    |
+| - SQL 🗃️                                  | - MariaDB 🐬                               |                                        |                                    |
+| - Docker 🐳                                |                                            |                                        |                                    |
+| - Power BI 💼                              |                                            |                                        |                                    |
+| - Tableau 📊                               |                                            |                                        |                                    |
+| - Eclipse 🌒                               |                                            |                                        |                                    |
+| - IntelliJ 💻                             |                                            |                                        |                                    |
+| - Django 🌐                               |                                            |                                        |                                    |
+| - Flask 🍶                                |                                            |                                        |                                    |
+| - Streamlit 🎨                            |                                            |                                        |                                    |
 
-- MySQL 🐬
-- PostgreSQL 🐘
-- SQLite 📦
-- MongoDB 🍃
-- Oracle 🏛️
-- MariaDB 🐬
-
-### Platforms ☁️
-
-- Oracle ☁️
-- AWS ☁️
-- Google Cloud ☁️
-
-### Operating Systems 💻
-
-- Windows 🪟
-- Linux 🐧
 
 ## Languages 🌎
 
